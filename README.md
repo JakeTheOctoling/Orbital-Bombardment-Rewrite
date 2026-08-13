@@ -1,2 +1,7 @@
 # Orbital-Bombardment-Rewrite
 This Rewrite of Orbital Bombardment is a unofficial port of the Orbital Bombardment mod made by Poenjabiesous, 
+this reimplementation of the mod is to preserve a mod that I found to be a very well done mod that should be given new life, and given compatibility with newer Minecraft versions and mods, 
+currently planned integrations: Mekanism, Mekanism tactical systems (allow for the use of the mod for setting missile, strike targets without the radar), lucky TNT mod (previously known as too much TNT. I wish to allow it to be given an inventory of selectable TNT within a chest. God TNT cannot be selected due to their destructive nature), 
+Create (allows, the mechanical arm to aim the gun if set up to do so), journey map (using world map to target areas using any mode will require a special block to do so), Weather2 (allows for summoning storms, when require its own special block as well), Ad Astra/Cosmic horizons (allow for the satellite to be used on other planets), Oculus (gotta make sure Shaders can work with it)
+All credit goes to Poenjabiesous, who is the original maker of the mod, i'm just here wanting to preserve it and their work along with others being allowed to work with the mod as needed or add their own compatibilities if the original model developer wishes for me to take this down, all development will stop, and this will be archived, 
+if the OG mod dev wishes to update the mod more than they are free to make a fork of this rewrite as wanted. 
