@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/yourname/orbitalbombardment/issues"
+
+[[mods]]
+modId="orbitalbombardment"
+version="0.1.0"
+displayName="Orbital Bombardment"
+authors="yourname"
+description='''
+FE-powered orbital strike mod. Charge a capacitor block with Forge Energy,
+then use the targeting device to call down a delayed strike.
+'''
+
+[[dependencies.orbitalbombardment]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.orbitalbombardment]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.20.2)"
+    ordering="NONE"
+    side="BOTH"
