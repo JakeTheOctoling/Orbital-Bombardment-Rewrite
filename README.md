@@ -5,3 +5,5 @@ currently planned integrations: Mekanism, Mekanism tactical systems (allow for t
 Create (allows, the mechanical arm to aim the gun if set up to do so), journey map (using world map to target areas using any mode will require a special block to do so), Weather2 (allows for summoning storms, when require its own special block as well), Ad Astra/Cosmic horizons (allow for the satellite to be used on other planets), Oculus (gotta make sure Shaders can work with it)
 All credit goes to Poenjabiesous, who is the original maker of the mod, i'm just here wanting to preserve it and their work along with others being allowed to work with the mod as needed or add their own compatibilities if the original model developer wishes for me to take this down, all development will stop, and this will be archived, 
 if the OG mod dev wishes to update the mod more than they are free to make a fork of this rewrite as wanted. 
+#AI info
+I have used Gemini and Clade to convert the old 1.8.4 code to forge 1.20.1 to lay the groundwork for the remake and planned intergrations. bugs will be manually reviewed and patched as they appear. no textures and images will be updated through AI. 
